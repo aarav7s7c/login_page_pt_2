@@ -1,0 +1,57 @@
+.icecreamicon
+{
+  width: 40px;
+  height: 40px;
+}
+.sweetquiz
+{
+  color:aqua;
+  font-family: monospace;
+}
+.headlogin2
+{
+  color: rgb(255, 0, 191);
+}
+.headlogin1
+{
+  color: aqua;
+}
+.linedtlhead
+{
+  height: 4px;
+  background-color: rgb(204, 51, 153);
+  width: 150px;
+  margin: 8px auto;
+}
+
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #ff80ff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px rgb(0, 253, 241);
+}
+
+.button:hover {background-color: #00ffe9; box-shadow: 0 9px rgb(202, 0, 253);}
+
+.button:active {
+  background-color: #ff80ff;
+  box-shadow: 0 5px rgb(0, 253, 240);
+  transform: translateY(4px);
+}
+.body_background
+{
+background-image: url(bg-01.jpg);
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+.headlogin
+{
+color: rgb(255, 128, 255);
+}
